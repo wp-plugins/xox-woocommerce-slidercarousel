@@ -53,7 +53,7 @@ how to install the plugin and get it working.
 5. Start creating your Slider or Carousel
 6. Use it anywhere in your post, pages, or custom posts using the shortcode button in editor toolbar. Or,
 7. Activate the "XoX WooCommerce Widget" through wp-admin->appearance->widgets, OR
-8. Use anywhere in your .php template by using "<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>"
+8. Use anywhere in your .php template by using `<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>`
 
 == Frequently Asked Questions ==
 
@@ -75,7 +75,7 @@ Future plan would be to allow users to create a folder inside their theme folder
 2. Set the parameters for the slider or carousel
 3. Go to your post/page where you want this slider to be shown, add it using the shortcode button found in the editor toolbar.
 4. Alternatively you can go to "Appearence -> Widgets" and add "XoX WooCommerce Widget" to your widget box, or
-5. Use anywhere in your .php template by adding this code: "<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>"
+5. Use anywhere in your .php template by adding this code: `<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>`
 
 == Screenshots ==
 
