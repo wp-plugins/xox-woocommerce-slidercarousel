@@ -1,5 +1,5 @@
 === XoX Woocommerce Slider/Carousel ===
-Contributors: dedongmonstersun
+Contributors: dedong
 Donate link: http://xoxslider.xolluteon.com/
 Tags: woocommerce, sliders, carousel, products, product, category, premium
 Requires at least: 4.0.1
@@ -79,13 +79,13 @@ Future plan would be to allow users to create a folder inside their theme folder
 
 == Screenshots ==
 
-1. /screenshots/1.jpg
-2. /screenshots/2.jpg
-3. /screenshots/3.jpg
-4. /screenshots/4.jpg
-5. /screenshots/5.jpg
-6. /screenshots/6.jpg
-7. /screenshots/7.jpg
+1. '/assets/screenshots/1.jpg'
+2. '/assets/screenshots/2.jpg'
+3. '/assets/screenshots/3.jpg'
+4. '/assets/screenshots/4.jpg'
+5. '/assets/screenshots/5.jpg'
+6. '/assets/screenshots/6.jpg'
+7. '/assets/screenshots/7.jpg'
 
 == Changelog ==
 
