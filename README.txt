@@ -15,6 +15,7 @@ XoX Woocommerce Slider/Carousel is useful plugin for displaying sliders consists
 XoX stands for X-tra Ordinary Solution, so the plugin was built to become an out of the box solution for your Web Store that use WooCommerce as it's framework.
 
 XoX Woocommerce Slider/Carousel comes with these features:
+
 *   Fluid and Responsive Design, means that the images and texts inside the slider or carousel will follow the theme responsiveness style. 
 *   10 Slider effects and 2 Carousel Scrolls.
 *   Easy shortcode implementation (integrated with WordPress editor).
@@ -52,13 +53,14 @@ how to install the plugin and get it working.
 5. Start creating your Slider or Carousel
 6. Use it anywhere in your post, pages, or custom posts using the shortcode button in editor toolbar. Or,
 7. Activate the "XoX WooCommerce Widget" through wp-admin->appearance->widgets, OR
-8. Use anywhere in your .php template by /wp-content/plugins/ "<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>"
+8. Use anywhere in your .php template by using "<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>"
 
 == Frequently Asked Questions ==
 
 = How to create a custom theme for my slider or carousel =
 
 Currently this is the steps:
+
 *   On the plugin folder ("/wp-content/plugins/xox-woo-carousel") go to "../include/templates/[slider or carousel]",
 *   Copy one of the template file (EG: default.php) rename it to anything you like but using "-" as space replacer (EG: my-theme.php),
 *   Upload the "my-theme.php" file in to "/wp-content/plugins/xox-woo-carousel/include/templates/[slider or carousel]",
@@ -72,18 +74,18 @@ Future plan would be to allow users to create a folder inside their theme folder
 1. Create new slider or carousel by going to "XoX Slider & Carousel -> Add New Slider/Carousel"
 2. Set the parameters for the slider or carousel
 3. Go to your post/page where you want this slider to be shown, add it using the shortcode button found in the editor toolbar.
-4. Alternatively you can got "Appearence -> Widgets" and add "XoX WooCommerce Widget" to your widget box, or
+4. Alternatively you can go to "Appearence -> Widgets" and add "XoX WooCommerce Widget" to your widget box, or
 5. Use anywhere in your .php template by adding this code: "<?php echo do_shortcode('[xoxslider name="slider-or-carousel-name"]'); ?>"
 
 == Screenshots ==
 
-1. /documentation/screenshots/1.jpg
-2. /documentation/screenshots/2.jpg
-3. /documentation/screenshots/3.jpg
-4. /documentation/screenshots/4.jpg
-5. /documentation/screenshots/5.jpg
-6. /documentation/screenshots/6.jpg
-7. /documentation/screenshots/7.jpg
+1. /screenshots/1.jpg
+2. /screenshots/2.jpg
+3. /screenshots/3.jpg
+4. /screenshots/4.jpg
+5. /screenshots/5.jpg
+6. /screenshots/6.jpg
+7. /screenshots/7.jpg
 
 == Changelog ==
 
