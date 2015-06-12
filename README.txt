@@ -79,13 +79,13 @@ Future plan would be to allow users to create a folder inside their theme folder
 
 == Screenshots ==
 
-1. `/assets/screenshots/1.jpg`
-2. `/assets/screenshots/2.jpg`
-3. `/assets/screenshots/3.jpg`
-4. `/assets/screenshots/4.jpg`
-5. `/assets/screenshots/5.jpg`
-6. `/assets/screenshots/6.jpg`
-7. `/assets/screenshots/7.jpg`
+1. Add new slider through wp-admin sidebar
+2. Inside the slider/carousel page
+3. Add shortcode using Editor toolbox
+4. Chose the slider/carousel to be used in the shortcode
+5. Add the slider/carousel from widget
+6. Custom widget for adding slider/carousel to dynamic WordPress widget
+7. All slider and carousel put in a page without problem
 
 == Changelog ==
 
